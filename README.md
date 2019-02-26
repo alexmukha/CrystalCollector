@@ -13,5 +13,5 @@ If you will be able to match the random number, you will receive a winning point
 ## Good luck:
 
 
-[Play Crystal Collector](https://alexmukha.github.io/CrystallsCollector/).
+[Play Crystal Collector](https://alexmukha.github.io/CrystalCollector/).
 
